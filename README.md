@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKSHAYKARANDE26
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning java developement
 - 💞️ I’m looking to collaborate on Reputated company
 - 📫 How to reach me ...
 
