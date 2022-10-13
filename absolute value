@@ -1,0 +1,14 @@
+import java.util.Scanner;
+class absolutevalue{
+      public static void main(String args){
+      Scanner sc=new Scanner(System.in);
+      System.out.println("Enter value :");
+      int value=sc.nextInt();
+      if(value<0){
+      System.out.println(-1*value);
+      }
+      else{
+      System.out.println(value);
+      }
+      }
+}
